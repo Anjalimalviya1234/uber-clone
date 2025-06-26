@@ -1,1 +1,1 @@
-# uber-clone
+Simple Blogging Platform
